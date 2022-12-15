@@ -50,6 +50,9 @@ Info about me:
 [<code>
 <img alt="joomla" width="26px" src="https://img.icons8.com/color/96/000000/joomla.png">
 </code>](https://www.joomla.org/)
+[<code>
+<img alt="laravel" width="26px" src="[https://img.icons8.com/color/96/000000/joomla.png](https://img.icons8.com/external-tal-revivo-color-tal-revivo/2x/external-laravel-is-a-free-open-source-php-web-framework-logo-color-tal-revivo.png)">
+</code>](https://www.laravel.com/)
 
 
 
