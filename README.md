@@ -29,6 +29,9 @@ Info about me:
 <img alt="Node.js" width="26px" src="https://img.icons8.com/color/240/000000/nodejs.png">
 </code>](https://nodejs.org/en/)
 [<code>
+<img alt="php" width="26px" src="https://img.icons8.com/officel/2x/php-logo.png">
+</code>](https://www.php.net/)
+[<code>
 <img alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
 </code>](https://dev.mysql.com/)
 [<code>
@@ -44,6 +47,9 @@ Info about me:
 [<code>
 <img alt="linux" width="26px" src="https://img.icons8.com/color/96/000000/linux.png">
 </code>](https://www.kernel.org/)
+[<code>
+<img alt="joomla" width="26px" src="https://img.icons8.com/color/96/000000/joomla.png">
+</code>](https://www.joomla.org/)
 
 
 
